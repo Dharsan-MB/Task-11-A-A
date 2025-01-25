@@ -1,4 +1,3 @@
-![Screenshot 2025-01-23 193339](https://github.com/user-attachments/assets/d696ecec-92af-49b5-91eb-91dad4d41d66)
 ```markdown
 # User Authentication and Authorization with Bearer Token
 
