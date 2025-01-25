@@ -1,5 +1,4 @@
-Here’s a sample `README.md` for your project:
-
+![Screenshot 2025-01-23 193339](https://github.com/user-attachments/assets/d696ecec-92af-49b5-91eb-91dad4d41d66)
 ```markdown
 # User Authentication and Authorization with Bearer Token
 
@@ -67,6 +66,10 @@ This project is a Node.js application that demonstrates user authentication and 
 ## API Endpoints
 
 ### **User Registration**
+![user registered](https://github.com/user-attachments/assets/1c844d05-f65c-49f0-82b3-d152bb911934)
+User already exist
+![user already exist](https://github.com/user-attachments/assets/6f54ab37-9ca4-45d3-85ea-b7c1620d01f5)
+
 - **URL**: `/api/register`
 - **Method**: POST
 - **Body**: 
@@ -85,6 +88,12 @@ This project is a Node.js application that demonstrates user authentication and 
   ```
 
 ### **User Login**
+![user login](https://github.com/user-attachments/assets/13d22826-0848-4fee-82af-70a3d666ed44)
+User not exist
+![not exist](https://github.com/user-attachments/assets/c4cbbd8d-4226-44d1-ac50-ca04ded303c4)
+Invalid pass
+![invalid pass](https://github.com/user-attachments/assets/796ae33f-d88f-4d8f-a0b9-ad8e065309aa)
+
 - **URL**: `/api/login`
 - **Method**: POST
 - **Body**: 
@@ -102,6 +111,8 @@ This project is a Node.js application that demonstrates user authentication and 
   ```
 
 ### **Get User Information**
+![data added](https://github.com/user-attachments/assets/2a25a8ac-270f-4057-9a8f-e5d391ef0e78)
+
 - **URL**: `/api/user`
 - **Method**: GET
 - **Headers**:
@@ -116,36 +127,4 @@ This project is a Node.js application that demonstrates user authentication and 
   }
   ```
 
----
-
-## Deployment
-
-The application is deployed on **Render**. Access the live server using the following URL:
-- **Server URL**: `<your_render_deployment_url>`
-
----
-
-## How to Submit
-
-1. Deploy your server to Render.
-2. Push your project to GitHub.
-3. Submit the following URLs:
-   - Render deployment URL
-   - GitHub repository URL
-
----
-
-## Notes
-
-- Do not share this project or its details.
-- Adhere to the terms and conditions mentioned in the task description.
-- This project is open-source and can be showcased in your portfolio (without the company name).
-
----
-
-## Resources
-
-- [Postman](https://www.postman.com/)
-- [JWT](https://jwt.io/)
-- [Render](https://render.com/)
 ```
